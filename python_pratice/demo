@@ -1,6 +1,5 @@
 a = 1
 
-
 def fun():
     global a
     a = 2
@@ -8,7 +7,6 @@ def fun():
     print(f"变量a的值：{a}")
     print("这是一个方法")
     # return True
-
 
 print(id(a))
 print(a)
