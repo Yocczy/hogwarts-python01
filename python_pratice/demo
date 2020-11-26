@@ -1,5 +1,6 @@
 a = 1
 
+
 def fun():
     global a
     a = 2
